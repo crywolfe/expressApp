@@ -9,6 +9,8 @@
   "author": "Gerry Wolfe",
   "license": "ISC",
   "dependencies": {
+    "basic-auth": "^1.0.0",
+    "ejs": "^1.0.0",
     "express": "^4.8.7"
   }
 }
